@@ -61,7 +61,7 @@ void expect(char op) {
 
 int expect_number() {
     if (token->kind != TK_NUM) {
-        error_at(token->str, "Nut a number");
+        error_at(token->str, "Not a number");
     }
     int val = token->val;
     token = token->next;
