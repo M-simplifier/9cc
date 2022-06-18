@@ -1,2 +1,0 @@
-https://www.sigbus.info/compilerbook#ステップ91文字のローカル変数
-を読みつつ、コミットをどんどん写経していけば良い。
